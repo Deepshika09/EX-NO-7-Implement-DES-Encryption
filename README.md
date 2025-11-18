@@ -39,7 +39,7 @@ int main()
 ```
 ## Output:
 
-<img width="758" height="432" alt="image" src="https://github.com/user-attachments/assets/2fdebba6-1ecc-49ed-bc69-62cae14dea18" />
+<img width="562" height="287" alt="Screenshot 2025-11-18 161328" src="https://github.com/user-attachments/assets/482cc2d0-83e6-443b-abdb-a6a4847789bf" />
 
 
 ## Result:
